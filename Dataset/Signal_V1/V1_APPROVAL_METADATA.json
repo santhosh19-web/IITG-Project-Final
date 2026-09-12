@@ -1,0 +1,6 @@
+{
+    "version": "1.0",
+    "status": "Approved by Mentor",
+    "contents": "4 processed OOK signal arrays",
+    "pipeline": "Centroid ROI -> Grayscale Mean -> Moving Average(5) -> MinMax[0,1]"
+}
