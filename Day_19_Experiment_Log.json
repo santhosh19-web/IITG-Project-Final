@@ -1,0 +1,65 @@
+[
+    {
+        "experiment_id": 1,
+        "window_size": 20,
+        "search_radius": 1,
+        "max_run": 14,
+        "decoded_bits_count": 1063
+    },
+    {
+        "experiment_id": 2,
+        "window_size": 20,
+        "search_radius": 2,
+        "max_run": 11,
+        "decoded_bits_count": 1063
+    },
+    {
+        "experiment_id": 3,
+        "window_size": 20,
+        "search_radius": 4,
+        "max_run": 10,
+        "decoded_bits_count": 1063
+    },
+    {
+        "experiment_id": 4,
+        "window_size": 50,
+        "search_radius": 1,
+        "max_run": 12,
+        "decoded_bits_count": 1063
+    },
+    {
+        "experiment_id": 5,
+        "window_size": 50,
+        "search_radius": 2,
+        "max_run": 9,
+        "decoded_bits_count": 1063
+    },
+    {
+        "experiment_id": 6,
+        "window_size": 50,
+        "search_radius": 4,
+        "max_run": 7,
+        "decoded_bits_count": 1063
+    },
+    {
+        "experiment_id": 7,
+        "window_size": 100,
+        "search_radius": 1,
+        "max_run": 13,
+        "decoded_bits_count": 1063
+    },
+    {
+        "experiment_id": 8,
+        "window_size": 100,
+        "search_radius": 2,
+        "max_run": 12,
+        "decoded_bits_count": 1063
+    },
+    {
+        "experiment_id": 9,
+        "window_size": 100,
+        "search_radius": 4,
+        "max_run": 10,
+        "decoded_bits_count": 1063
+    }
+]
