@@ -1,0 +1,9 @@
+{
+    "pipeline_version": "1.0",
+    "roi_selection": "Max intensity centroid bounding box",
+    "roi_box_size": "20x20 pixels",
+    "smoothing_method": "Moving Average",
+    "smoothing_window_size": 5,
+    "normalization_method": "Min-Max scaling to [0, 1]",
+    "deterministic_seed_applied": true
+}
