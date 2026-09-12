@@ -1,0 +1,3 @@
+Week-4 Final Direction: APPROVED
+Best-Candidate Checkpoint: Tuned Dynamic Sync Decoder (Adaptive Threshold W=50, Snap Radius=4)
+Next Steps: Final test-set blind evaluation and project wrap-up.
