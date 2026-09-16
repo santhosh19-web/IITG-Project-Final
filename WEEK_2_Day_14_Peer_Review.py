@@ -1,3 +1,7 @@
+# Name: K.Santhosh Reddy
+# Cohort: 4 Batch A2
+# Mentor: Mr. Vamshi
+
 import os
 
 def prepare_week2_package():
